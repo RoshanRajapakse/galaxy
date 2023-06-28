@@ -10,7 +10,7 @@
   "main": "index.js",
   "dependencies": {
     "@galaxyproject/nora": "1.1.2",
-    "cpy-cli": "^3.1.1"
+    "cpy-cli": "^5.0.0"
   },
   "scripts": {
     "build": "cpy --cwd='node_modules/@galaxyproject/nora/static/dist' --parents './' '../../../../../static/dist'"
