@@ -1,1 +1,11 @@
-../package-dev-requirements.txt
+# For testing
+-r test-requirements.txt
+
+# For dev
+sphinx
+mypy
+
+# For release
+build
+twine
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
