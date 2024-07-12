@@ -10,7 +10,7 @@
         "@galaxyproject/charts": "^0.0.6",
         "babel-preset-env": "^1.6.1",
         "backbone": "^1.4.0",
-        "bootstrap": "^3.3.7",
+        "bootstrap": "^5.0.0",
         "d3": "3",
         "jquery": "^3.5.1",
         "parcel-bundler": "^1.4.1",
