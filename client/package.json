@@ -85,7 +85,7 @@
     "pyre-to-regexp": "^0.0.5",
     "querystring-es3": "^0.2.1",
     "regenerator-runtime": "^0.13.9",
-    "requirejs": "2.3.6",
+    "requirejs": "2.3.7",
     "rxjs": "^7.5.2",
     "rxjs-spy": "^8.0.2",
     "rxjs-spy-devtools-plugin": "^0.0.4",
