@@ -28,7 +28,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "bootstrap": "3",
+    "bootstrap": "4.0.0",
     "igv": "^2.6.6"
   }
 }
