@@ -11,3 +11,4 @@ types-python-dateutil
 types-PyYAML
 types-requests
 types-six
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
